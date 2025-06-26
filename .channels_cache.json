@@ -1,0 +1,3631 @@
+[
+  {
+    "id": "C092AA8S0S3",
+    "created": 1750726702,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--swaleheenj--jamie-1",
+    "num_members": 3,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse267--swaleheenj--jamie-1",
+    "creator": "U08PFS26Q1W",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U070EHAJ805",
+      "U090BNSMN3S"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @swaleheenj @jamie",
+      "creator": "U08PFS26Q1W",
+      "last_set": 1750726702
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C08P75BL2E4",
+    "created": 1744852929,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--henry--jamie--travisse-1",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse267--henry--jamie--travisse-1",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U0702U873CP",
+      "U070EHAJ805",
+      "U08KS39UPG8"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @henry @jamie @travisse",
+      "creator": "U070EHAJ805",
+      "last_set": 1744852929
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F08PH8C136U",
+        "is_empty": true,
+        "quip_thread_id": "aTc9AAd1a7Z"
+      }
+    }
+  },
+  {
+    "id": "C08SXA0VC02",
+    "created": 1747517074,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse--jamie--travisse267-1",
+    "num_members": 3,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse--jamie--travisse267-1",
+    "creator": "U08KS39UPG8",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U070EHAJ805",
+      "U08KS39UPG8"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse @jamie @travisse267",
+      "creator": "U08KS39UPG8",
+      "last_set": 1747517074
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C08TNLUTGNT",
+    "created": 1748293419,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-jamie--travisse267--bousse-1",
+    "num_members": 3,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-jamie--travisse267--bousse-1",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U070EHAJ805",
+      "U07168YPF7A"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @jamie @travisse267 @bousse",
+      "creator": "U070EHAJ805",
+      "last_set": 1748293419
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C08Q4A1KR2B",
+    "created": 1746117850,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": true,
+    "is_im": false,
+    "is_ext_shared": true,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--jamie--travisse--mikeblack-1",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "context_team_id": "T070ARJP614",
+    "conversation_host_id": "T070ARJP614",
+    "name": "mpdm-travisse267--jamie--travisse--mikeblack-1",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U53N6PCQL",
+      "U070EHAJ805",
+      "U08KS39UPG8"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @jamie @travisse @mikeblack",
+      "creator": "U070EHAJ805",
+      "last_set": 1746117850
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C08SF9JGKJB",
+    "created": 1747516863,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--jamie--henry-1",
+    "num_members": 3,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse267--jamie--henry-1",
+    "creator": "U08PFS26Q1W",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U0702U873CP",
+      "U070EHAJ805"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @jamie @henry",
+      "creator": "U08PFS26Q1W",
+      "last_set": 1747516863
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C08VDB68U9F",
+    "created": 1748881229,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-jamie--bousse--travisse267--henry-1",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-jamie--bousse--travisse267--henry-1",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U0702U873CP",
+      "U070EHAJ805",
+      "U07168YPF7A"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @jamie @bousse @travisse267 @henry",
+      "creator": "U070EHAJ805",
+      "last_set": 1748881229
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C092PJY94TU",
+    "created": 1750706312,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-alexis--jamie--henry--bousse--travisse267-1",
+    "num_members": 5,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-alexis--jamie--henry--bousse--travisse267-1",
+    "creator": "U070W5BSQG1",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U0702U873CP",
+      "U070EHAJ805",
+      "U070W5BSQG1",
+      "U07168YPF7A"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @alexis @jamie @henry @bousse @travisse267",
+      "creator": "U070W5BSQG1",
+      "last_set": 1750706312
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C0934F7HETT",
+    "created": 1750726709,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--swaleheenj--jamie--bousse-1",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse267--swaleheenj--jamie--bousse-1",
+    "creator": "U08PFS26Q1W",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U070EHAJ805",
+      "U07168YPF7A",
+      "U090BNSMN3S"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @swaleheenj @jamie @bousse",
+      "creator": "U08PFS26Q1W",
+      "last_set": 1750726709
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS2V3SL",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08G2GK5MJL",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2J1TJ",
+    "created": 1744992872,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.980606070783,
+    "user": "U070EHAJ805",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F0900LX3Z6G",
+        "is_empty": true,
+        "quip_thread_id": "GDA9AA6MbO2"
+      }
+    }
+  },
+  {
+    "id": "D08PFS31V3J",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070EHTJBNH",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2UE9W",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.38757710811637,
+    "user": "U07168YPF7A",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS2R83S",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U07708DHZKR",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2UEAU",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070HF93Z3L",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2785N",
+    "created": 1744992872,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "USLACKBOT",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08QA751082",
+    "created": 1745952871,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08QA74J2CS",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2QK9N",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08KS39UPG8",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08NWM9413M",
+    "created": 1744992878,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U084WK91M7D",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D090TUE9QU9",
+    "created": 1749316868,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": true,
+    "is_im": true,
+    "is_ext_shared": true,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.13965635667887,
+    "user": "U571C3E31",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D092QRFLEP9",
+    "created": 1750919263,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U092QRFBN6T",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D090BNSSVTJ",
+    "created": 1748894722,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.96357334523695,
+    "user": "U090BNSMN3S",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS32BFS",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070JCUTWDU",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2SU6L",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070W5BHEPK",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2QN4Q",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08EL1X0XP0",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS27HLG",
+    "created": 1744992872,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.038319885124146,
+    "user": "U08PFS26Q1W",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS31WTA",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U0708TGM43H",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS30B5W",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070HN4PLUA",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2R75E",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.051073732172771,
+    "user": "U070W5BSQG1",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2QJP2",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.53750409323615,
+    "user": "U0702U873CP",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PAFD276X",
+    "created": 1745341080,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08PAFCMXNX",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C070W4U0JHF",
+    "created": 1713988423,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "random",
+    "num_members": 10,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "random",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+      "creator": "U070EHAJ805",
+      "last_set": 1713988423
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C072VKHNPH6",
+    "created": 1715020435,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "new-leads",
+    "num_members": 10,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "new-leads",
+    "creator": "U0702U873CP",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F072K6FU3FU",
+        "is_empty": false,
+        "quip_thread_id": "WJA9AAmxy8i"
+      }
+    }
+  },
+  {
+    "id": "C08PYDMCT6W",
+    "created": 1745732936,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": true,
+    "is_im": false,
+    "is_ext_shared": true,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "get-more-reviews-icon",
+    "num_members": 9,
+    "priority": 0,
+    "user": "",
+    "context_team_id": "T070ARJP614",
+    "conversation_host_id": "T08MYFQQ41Y",
+    "name": "get-more-reviews-icon",
+    "creator": "U08NFSMNHSQ",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D092QRFLEP9",
+    "created": 1750919263,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U092QRFBN6T",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D090BNSSVTJ",
+    "created": 1748894722,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.96357334523695,
+    "user": "U090BNSMN3S",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS32BFS",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070JCUTWDU",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2SU6L",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070W5BHEPK",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2QN4Q",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08EL1X0XP0",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS27HLG",
+    "created": 1744992872,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.038319885124146,
+    "user": "U08PFS26Q1W",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C07G07KTBR6",
+    "created": 1722631500,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "website-visitors",
+    "num_members": 8,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "website-visitors",
+    "creator": "U070KV0HRT6",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS31WTA",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U0708TGM43H",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS30B5W",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070HN4PLUA",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2R75E",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.051073732172771,
+    "user": "U070W5BSQG1",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2QJP2",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.53750409323615,
+    "user": "U0702U873CP",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PAFD276X",
+    "created": 1745341080,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08PAFCMXNX",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C070LGF268L",
+    "created": 1713994960,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "review-tap-cards",
+    "num_members": 8,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "review-tap-cards",
+    "creator": "U070W5BSQG1",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F08AKBRUH0R",
+        "is_empty": true,
+        "quip_thread_id": "ZbW9AApkYmJ"
+      }
+    }
+  },
+  {
+    "id": "C070N6WBZDH",
+    "created": 1714055147,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "customer-support",
+    "num_members": 8,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "customer-support",
+    "creator": "U070W5BSQG1",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C08897F9ZGF",
+    "created": 1736912754,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "trial-form-submissions",
+    "num_members": 9,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "trial-form-submissions",
+    "creator": "U070KV0HRT6",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS2V3SL",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08G2GK5MJL",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C0702UEDCEB",
+    "created": 1713988681,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "new-customers",
+    "num_members": 12,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "new-customers",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F079G2ZML2Z",
+        "is_empty": false,
+        "quip_thread_id": "CQL9AA6Ao8v"
+      }
+    }
+  },
+  {
+    "id": "C079MNGFR9S",
+    "created": 1719269199,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": true,
+    "is_im": false,
+    "is_ext_shared": true,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "times-they-are-a-changin",
+    "num_members": 7,
+    "priority": 0,
+    "user": "",
+    "context_team_id": "T070ARJP614",
+    "conversation_host_id": "T070ARJP614",
+    "name": "times-they-are-a-changin",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Welcome to Times-They-Are-A-Changin!\n\nDiscuss and navigate our business structure changes here!",
+      "creator": "U070EHAJ805",
+      "last_set": 1719269631
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS2J1TJ",
+    "created": 1744992872,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.980606070783,
+    "user": "U070EHAJ805",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F0900LX3Z6G",
+        "is_empty": true,
+        "quip_thread_id": "GDA9AA6MbO2"
+      }
+    }
+  },
+  {
+    "id": "C07035RTD47",
+    "created": 1713990994,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "cancled-subscribers",
+    "num_members": 12,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "cancled-subscribers",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F077FKP166S",
+        "is_empty": true,
+        "quip_thread_id": "TCU9AAEEh97"
+      }
+    }
+  },
+  {
+    "id": "C077FPUP5D1",
+    "created": 1718057040,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "failed-payments",
+    "num_members": 7,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "failed-payments",
+    "creator": "U070EHTJBNH",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C091AFEQN7L",
+    "created": 1749781927,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "marketing",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "marketing",
+    "creator": "U08PFS26Q1W",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C070HB9AYTV",
+    "created": 1713988423,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "general",
+    "num_members": 11,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "general",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+      "creator": "U070EHAJ805",
+      "last_set": 1713988423
+    },
+    "is_channel": true,
+    "is_general": true,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F092C8B4EJE",
+        "is_empty": false,
+        "quip_thread_id": "RWf9AAkj2QR"
+      }
+    }
+  },
+  {
+    "id": "C07QDU8FUTF",
+    "created": 1728070618,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "email-campaigns",
+    "num_members": 6,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "email-campaigns",
+    "creator": "U0702U873CP",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C07RDUWJ5ST",
+    "created": 1728947983,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "white-glove-service",
+    "num_members": 7,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "white-glove-service",
+    "creator": "U0702U873CP",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS31V3J",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070EHTJBNH",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2UE9W",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.38757710811637,
+    "user": "U07168YPF7A",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D08PFS2R83S",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U07708DHZKR",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C070HFM0H18",
+    "created": 1713988736,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "cancelled-clients",
+    "num_members": 9,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "cancelled-clients",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2UEAU",
+    "created": 1744992874,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U070HF93Z3L",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2785N",
+    "created": 1744992872,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "USLACKBOT",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C0716A08YQK",
+    "created": 1714415604,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "software-build",
+    "num_members": 8,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "software-build",
+    "creator": "U070W5BSQG1",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C07183GM4LU",
+    "created": 1714408010,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "sales",
+    "num_members": 10,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "sales",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "D090TUE9QU9",
+    "created": 1749316868,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": true,
+    "is_im": true,
+    "is_ext_shared": true,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0.13965635667887,
+    "user": "U571C3E31",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08QA751082",
+    "created": 1745952871,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08QA74J2CS",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08PFS2QK9N",
+    "created": 1744992873,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U08KS39UPG8",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "D08NWM9413M",
+    "created": 1744992878,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": true,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": false,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "",
+    "num_members": 0,
+    "priority": 0,
+    "user": "U084WK91M7D",
+    "context_team_id": "T070ARJP614",
+    "name": "",
+    "creator": "",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": false,
+    "is_general": false,
+    "is_member": false,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C08Q4A1KR2B",
+    "created": 1746117850,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": true,
+    "is_im": false,
+    "is_ext_shared": true,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--jamie--travisse--mikeblack-1",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "context_team_id": "T070ARJP614",
+    "conversation_host_id": "T070ARJP614",
+    "name": "mpdm-travisse267--jamie--travisse--mikeblack-1",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U53N6PCQL",
+      "U070EHAJ805",
+      "U08KS39UPG8"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @jamie @travisse @mikeblack",
+      "creator": "U070EHAJ805",
+      "last_set": 1746117850
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C0716U37E1E",
+    "created": 1713996047,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": true,
+    "is_im": false,
+    "is_ext_shared": true,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": false,
+    "unlinked": 0,
+    "name_normalized": "ext-told-getmorereviews",
+    "num_members": 14,
+    "priority": 0,
+    "user": "",
+    "context_team_id": "T070ARJP614",
+    "conversation_host_id": "T5313TSBA",
+    "name": "ext-told-getmorereviews",
+    "creator": "U53N6PCQL",
+    "is_archived": false,
+    "members": null,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F07760LDDL7",
+        "is_empty": false,
+        "quip_thread_id": "PXS9AACyZvW"
+      }
+    }
+  },
+  {
+    "id": "C08SF9JGKJB",
+    "created": 1747516863,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--jamie--henry-1",
+    "num_members": 3,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse267--jamie--henry-1",
+    "creator": "U08PFS26Q1W",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U0702U873CP",
+      "U070EHAJ805"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @jamie @henry",
+      "creator": "U08PFS26Q1W",
+      "last_set": 1747516863
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C08VDB68U9F",
+    "created": 1748881229,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-jamie--bousse--travisse267--henry-1",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-jamie--bousse--travisse267--henry-1",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U0702U873CP",
+      "U070EHAJ805",
+      "U07168YPF7A"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @jamie @bousse @travisse267 @henry",
+      "creator": "U070EHAJ805",
+      "last_set": 1748881229
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C092PJY94TU",
+    "created": 1750706312,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-alexis--jamie--henry--bousse--travisse267-1",
+    "num_members": 5,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-alexis--jamie--henry--bousse--travisse267-1",
+    "creator": "U070W5BSQG1",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U0702U873CP",
+      "U070EHAJ805",
+      "U070W5BSQG1",
+      "U07168YPF7A"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @alexis @jamie @henry @bousse @travisse267",
+      "creator": "U070W5BSQG1",
+      "last_set": 1750706312
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C0934F7HETT",
+    "created": 1750726709,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--swaleheenj--jamie--bousse-1",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse267--swaleheenj--jamie--bousse-1",
+    "creator": "U08PFS26Q1W",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U070EHAJ805",
+      "U07168YPF7A",
+      "U090BNSMN3S"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @swaleheenj @jamie @bousse",
+      "creator": "U08PFS26Q1W",
+      "last_set": 1750726709
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C092AA8S0S3",
+    "created": 1750726702,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--swaleheenj--jamie-1",
+    "num_members": 3,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse267--swaleheenj--jamie-1",
+    "creator": "U08PFS26Q1W",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U070EHAJ805",
+      "U090BNSMN3S"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @swaleheenj @jamie",
+      "creator": "U08PFS26Q1W",
+      "last_set": 1750726702
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C08SXA0VC02",
+    "created": 1747517074,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse--jamie--travisse267-1",
+    "num_members": 3,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse--jamie--travisse267-1",
+    "creator": "U08KS39UPG8",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U070EHAJ805",
+      "U08KS39UPG8"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse @jamie @travisse267",
+      "creator": "U08KS39UPG8",
+      "last_set": 1747517074
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": null
+  },
+  {
+    "id": "C08TNLUTGNT",
+    "created": 1748293419,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-jamie--travisse267--bousse-1",
+    "num_members": 3,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-jamie--travisse267--bousse-1",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U070EHAJ805",
+      "U07168YPF7A"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @jamie @travisse267 @bousse",
+      "creator": "U070EHAJ805",
+      "last_set": 1748293419
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "",
+        "is_empty": false,
+        "quip_thread_id": ""
+      }
+    }
+  },
+  {
+    "id": "C08P75BL2E4",
+    "created": 1744852929,
+    "is_open": false,
+    "is_group": false,
+    "is_shared": false,
+    "is_im": false,
+    "is_ext_shared": false,
+    "is_org_shared": false,
+    "is_global_shared": false,
+    "is_pending_ext_shared": false,
+    "is_private": true,
+    "is_read_only": false,
+    "is_mpim": true,
+    "unlinked": 0,
+    "name_normalized": "mpdm-travisse267--henry--jamie--travisse-1",
+    "num_members": 4,
+    "priority": 0,
+    "user": "",
+    "shared_team_ids": [
+      "T070ARJP614"
+    ],
+    "context_team_id": "T070ARJP614",
+    "name": "mpdm-travisse267--henry--jamie--travisse-1",
+    "creator": "U070EHAJ805",
+    "is_archived": false,
+    "members": [
+      "U08PFS26Q1W",
+      "U0702U873CP",
+      "U070EHAJ805",
+      "U08KS39UPG8"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Group messaging with: @travisse267 @henry @jamie @travisse",
+      "creator": "U070EHAJ805",
+      "last_set": 1744852929
+    },
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "locale": "",
+    "properties": {
+      "canvas": {
+        "file_id": "F08PH8C136U",
+        "is_empty": true,
+        "quip_thread_id": "aTc9AAd1a7Z"
+      }
+    }
+  }
+]

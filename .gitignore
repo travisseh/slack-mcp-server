@@ -8,3 +8,6 @@
 /npm/slack-mcp-server/LICENSE
 /npm/slack-mcp-server/README.md
 docker-compose.release.yml
+
+# Slack summaries
+slack_summary_*.md
