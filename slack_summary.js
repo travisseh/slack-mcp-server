@@ -4,9 +4,34 @@ const { spawn } = require("child_process");
 const fs = require("fs");
 const https = require("https");
 
+// Load environment variables from .env file if it exists
+if (fs.existsSync(".env")) {
+  const envContent = fs.readFileSync(".env", "utf8");
+  const lines = envContent.split("\n");
+
+  lines.forEach((line) => {
+    const trimmedLine = line.trim();
+    if (trimmedLine && !trimmedLine.startsWith("#")) {
+      const [key, ...valueParts] = trimmedLine.split("=");
+      const value = valueParts.join("=").replace(/^["']|["']$/g, ""); // Remove quotes
+      if (key && value) {
+        process.env[key] = value;
+      }
+    }
+  });
+
+  console.log("Loaded environment variables from .env file");
+}
+
 // Configuration
 const HOURS_TO_FETCH = process.env.HOURS || 24; // Default to last 24 hours
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+
+if (!OPENAI_API_KEY) {
+  console.error("Error: OPENAI_API_KEY environment variable is not set!");
+  console.error("Please set it in your .env file or export it in your shell.");
+  process.exit(1);
+}
 
 // Channels to fetch - using IDs from the cache
 const CHANNELS = [
@@ -159,11 +184,78 @@ Format your response in clear markdown with appropriate headers.`;
   });
 }
 
+// Generic helper to call OpenAI with arbitrary prompts
+function callOpenAIChat(systemContent, userContent) {
+  return new Promise((resolve, reject) => {
+    // Create the request payload
+    const payload = {
+      model: "gpt-4o-mini",
+      messages: [
+        { role: "system", content: systemContent },
+        { role: "user", content: userContent },
+      ],
+      temperature: 0.3,
+      max_tokens: 1000,
+    };
+
+    // Convert to JSON string
+    const data = JSON.stringify(payload);
+
+    // Create request options
+    const options = {
+      hostname: "api.openai.com",
+      port: 443,
+      path: "/v1/chat/completions",
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${OPENAI_API_KEY}`,
+        "Content-Length": Buffer.byteLength(data),
+      },
+    };
+
+    const req = https.request(options, (res) => {
+      let responseData = "";
+
+      res.on("data", (chunk) => {
+        responseData += chunk;
+      });
+
+      res.on("end", () => {
+        try {
+          const response = JSON.parse(responseData);
+          if (response.choices && response.choices[0]) {
+            resolve(response.choices[0].message.content);
+          } else if (response.error) {
+            reject(new Error(response.error.message));
+          } else {
+            reject(new Error("Unexpected response from OpenAI"));
+          }
+        } catch (e) {
+          console.error("Failed to parse OpenAI response:", responseData);
+          reject(e);
+        }
+      });
+    });
+
+    req.on("error", (e) => {
+      reject(e);
+    });
+
+    req.write(data);
+    req.end();
+  });
+}
+
 // Helper function to spawn MCP server and send commands
 function callMCPServer(method, params) {
   return new Promise((resolve, reject) => {
     const env = {
       ...process.env,
+      // Explicitly pass Slack authentication tokens
+      SLACK_MCP_XOXC_TOKEN: process.env.SLACK_MCP_XOXC_TOKEN,
+      SLACK_MCP_XOXD_TOKEN: process.env.SLACK_MCP_XOXD_TOKEN,
+      SLACK_MCP_XOXP_TOKEN: process.env.SLACK_MCP_XOXP_TOKEN,
     };
 
     const mcp = spawn(
@@ -181,6 +273,9 @@ function callMCPServer(method, params) {
       mcp.kill();
       reject(new Error("Timeout"));
     }, 30000); // 30 second timeout
+
+    // Collect stderr for debugging
+    let stderrBuffer = "";
 
     // Handle stdout data
     mcp.stdout.on("data", (data) => {
@@ -246,13 +341,17 @@ function callMCPServer(method, params) {
     });
 
     // Handle stderr (suppress output)
-    mcp.stderr.on("data", () => {});
+    mcp.stderr.on("data", (data) => {
+      stderrBuffer += data.toString();
+    });
 
     // Handle process exit
     mcp.on("close", (code) => {
       clearTimeout(timeout);
       if (code !== 0) {
-        reject(new Error(`Process exited with code ${code}`));
+        reject(
+          new Error(`Process exited with code ${code}. Stderr: ${stderrBuffer}`)
+        );
       }
     });
 
@@ -288,7 +387,21 @@ async function fetchChannelMessages(channelId, channelName, hoursAgo) {
     });
 
     console.log(`  Found ${messages.length} messages`);
-    return messages;
+
+    // Filter messages within the timeframe (safety check)
+    const oldestMs = Date.now() - hoursAgo * 60 * 60 * 1000;
+    const filtered = messages.filter((m) => {
+      if (!m.Time) return false;
+      const tsMs = parseFloat(m.Time) * 1000; // Slack timestamps are in seconds
+      return tsMs >= oldestMs;
+    });
+
+    if (filtered.length !== messages.length) {
+      console.log(
+        `  Filtered to ${filtered.length} messages after timeframe check`
+      );
+    }
+    return filtered;
   } catch (error) {
     console.error(`  Error: ${error.message}`);
     return [];
@@ -365,35 +478,98 @@ async function summarizeMessages(channelName, messages) {
   return summary;
 }
 
+// Generate the overall summary, action items, and per-channel summaries
+async function generateOverallSummary(channelsData, hours) {
+  // Create a simple text summary of all messages
+  let allMessages = [];
+
+  channelsData.forEach((channel) => {
+    if (channel.messages.length > 0) {
+      channel.messages.slice(0, 20).forEach((msg) => {
+        const user = msg.RealName || msg.UserName || msg.UserID || "Unknown";
+        const text = (msg.Text || "")
+          .replace(/[^\x20-\x7E]/g, " ") // Replace non-printable with space
+          .replace(/\s+/g, " ") // Normalize whitespace
+          .trim()
+          .substring(0, 100);
+
+        if (text) {
+          allMessages.push(`[${channel.name}] ${user}: ${text}`);
+        }
+      });
+    }
+  });
+
+  const systemPrompt = `You are a Slack conversation summarizer. Analyze the messages and create a markdown summary with exactly these three sections:
+
+# Overall Summary
+Write a concise summary (max 6 sentences) of what happened across all channels in the last ${hours} hours.
+
+## Action Items
+List clear, actionable tasks mentioned in the conversations (max 10 bullets).
+
+## Channel Summaries
+For each active channel, write:
+### {channel_name}
+- 3–5 bullet points summarizing that channel's discussion. When a message itself contains a summary or notes (e.g. "Alexis Mintz summarized …", "Bousse shared notes …"), include the key take-aways of that embedded summary in the same bullet, e.g. "Alexis Mintz summarized the dev call – main points: API contract finalised; frontend deadline moved to Friday".
+- Prefer specific details over generic statements.
+- Keep each bullet brief (≤ 25 words).
+
+Keep the whole markdown concise and focused.`;
+
+  const userPrompt = `Here are the recent Slack messages:\n\n${allMessages.join(
+    "\n"
+  )}`;
+
+  console.log("  Generating overall summary...");
+  return await callOpenAIChat(systemPrompt, userPrompt);
+}
+
 // Main function
 async function main() {
   console.log(
     `Fetching Slack messages from the last ${HOURS_TO_FETCH} hours...\n`
   );
 
-  let fullSummary = `# Slack Summary - Last ${HOURS_TO_FETCH} Hours\n`;
-  fullSummary += `Generated at: ${new Date().toLocaleString()}\n`;
-
-  // Process channels sequentially
+  const channelData = [];
   for (const channel of CHANNELS) {
     const messages = await fetchChannelMessages(
       channel.id,
       channel.name,
       HOURS_TO_FETCH
     );
-    const summary = await summarizeMessages(channel.name, messages);
-    fullSummary += summary;
+    channelData.push({ name: channel.name, messages });
   }
 
+  const overallMarkdown = await generateOverallSummary(
+    channelData,
+    HOURS_TO_FETCH
+  );
+
   // Save summary to file
-  const filename = `slack_summary_${new Date()
-    .toISOString()
-    .replace(/[:.]/g, "-")}.md`;
-  fs.writeFileSync(filename, fullSummary);
+  const now = new Date();
+  const dateStr = now
+    .toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    })
+    .replace(/\//g, "-");
+  const timeStr = now
+    .toLocaleTimeString("en-US", {
+      hour12: true,
+      hour: "numeric",
+      minute: "2-digit",
+    })
+    .replace(/:/g, "-")
+    .replace(/\s/g, "");
+
+  const filename = `slack_summary_${dateStr}_${timeStr}.md`;
+  fs.writeFileSync(filename, overallMarkdown);
 
   console.log(`\nSummary saved to: ${filename}`);
   console.log("\n--- SUMMARY PREVIEW ---");
-  console.log(fullSummary.substring(0, 1000) + "...");
+  console.log(overallMarkdown.substring(0, 1000) + "...");
 }
 
 // Run the script
